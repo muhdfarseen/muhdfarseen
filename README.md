@@ -47,10 +47,4 @@
   <img src="https://streak-stats.demolab.com?user=muhdfarseen&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@muhdfarseen" alt="Layout with last medium posts"  />
-</div>
-
-###
