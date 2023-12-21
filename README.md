@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am passionate about creative designing and UI/UX designing. I love to build new projects with innovative and user-friendly styles, using my skills in web design, marketing, and content marketing. <br><br>I have gained valuable experience as a UI Designer at GTech MuLearn and De' Lead International, where I have contributed to the development and improvement of several web and mobile applications, as well as the creation and implementation of marketing strategies and campaigns. I have also worked as a Graphic Designer at various organizations, where I have designed and delivered high-quality graphics and visual content for different platforms and purposes. I am a dependable, energetic, and eager learner, who can handle multiple tasks and solve problems creatively. I am always looking for new challenges and opportunities to grow and enhance my skills and knowledge.</p>
+<p align="left">I love to build new projects with innovative and user-friendly styles, using my skills in web design, marketing, and content marketing.</p>
 
 ###
 
