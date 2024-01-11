@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I love to build new projects with innovative and user-friendly styles, using my skills in web design, marketing, and content marketing.</p>
+<p align="left">I love to build new projects with innovative and user-friendly styles, using my skills in design, development and  marketing.</p>
 
 ###
 
