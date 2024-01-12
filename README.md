@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>Iam Muhammed Farseen</h2>
+<h2 align="left">Hi 👋! <br>Iam Muhammed Farseen T P</h2>
 
 ###
 
